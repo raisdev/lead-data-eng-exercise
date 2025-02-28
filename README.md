@@ -50,7 +50,7 @@ The API endpoints should:
 - Return a list of personnel record by employee netid
 - Return a list of all personnel records across all projects
 
-Each personnel record should have the following keys:
+Each personnel record should have the following fields:
 - `record_id` - UID of the Personnel Record
 - `employee_netid` - NetID of the employee
 - `employee_first_name` - First name of the employee
